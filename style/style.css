@@ -1,0 +1,358 @@
+
+.footer
+{
+	text-align: center;
+	border: 1px solid black;
+}
+
+
+td 
+{
+   	border: 1px solid black; 
+}
+
+table
+{
+    	border-collapse: collapse; 
+}
+
+.form
+{
+	border: 1px solid black;
+	text-align: center;
+}
+
+.entete
+{
+	border: 1px solid black;
+	text-align: center;
+}
+
+/* delete users */
+
+.liste_users
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	text-align:center;
+}
+
+.del_form
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+}
+
+/* Assistance */
+
+.assistance
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	text-align:center;
+	height:100px;
+}
+
+/* password reset */
+
+.liste_users
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	text-align:center;
+}
+
+.form_passwd
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+}
+
+
+
+/* New company */
+
+.info_perso
+{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+}
+
+
+/*ACCUEIL MOBILE MONEY */
+
+.ouverture_mm
+{
+	border: 1px solid black;
+	width:70%;
+	float: left;
+	height:300px;
+	padding:20px;	
+}
+
+.resultat_ouverture
+{
+	border: 1px solid black;
+	margin-left:70%;
+	text-align:center;
+	height:300px;
+}
+
+
+
+.impayes_mm
+{
+	border: 1px solid black;
+	margin-top:20px;
+	width:70%;
+	height:200px;
+	float:left;
+	padding:20px;
+}
+
+.resultat_impayes
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	height:200px;
+	margin-left:70%;
+}
+
+.cloture_mm
+{
+	border: 1px solid black;
+	margin-top:20px;
+	height:300px;
+	padding:20px;
+}
+
+.image
+{
+	margin:auto;
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto
+}
+poo
+{
+    width: 350px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+    overflow: auto;
+    word-wrap: break-word;
+}
+
+
+/*ACCUEIL MONEY TRANSFERT*/
+
+.ouverture_mt
+{
+	border: 1px solid black;
+	width:70%;
+	float: left;
+	height:300px;
+	padding:20px;
+	
+}
+
+.resultat_ouverture_mt
+{
+	border: 1px solid black;
+	margin-left:70%;
+	text-align:center;
+	height:300px;
+}
+
+.operation_client
+{
+	border: 1px solid black;
+	margin-top:20px;
+	width:70%;
+	height:300px;
+	float:left;
+	padding:20px;
+}
+
+.resultat_operation
+{
+	border: 1px solid black;
+	margin-top:20px;
+	height:300px;
+	margin-left:70%;
+	
+}
+
+
+.impayes_mt
+{
+	border: 1px solid black;
+	margin-top:20px;
+	width:70%;
+	height:100px;
+	float:left;
+	padding:20px;
+}
+
+.resultat_impayes_mt
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	height:100px;
+	margin-left:70%;
+}
+
+.cloture_mt
+{
+	border: 1px solid black;
+	margin-top:20px;
+	height:300px;
+	padding:20px;
+}
+
+
+
+/* CLOTURE MT */
+
+
+
+.envoi_retrait
+{
+	border: 1px solid black;
+	margin-top:20px;
+	width:70%;
+	height:400px;
+	float:left;
+	padding:20px;
+}
+
+.resultat
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	height:400px;
+	margin-left:70%;
+}
+
+.recapitulatif
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	height:250px;
+	text-align:center;
+}
+
+
+/* REPORTS */
+.dayly
+{	border: 1px solid black;
+	margin-top:20px;
+	width:50%;
+	height:200px;
+	float:left;
+	padding:20px;
+}
+
+.dayly_form
+{
+	border: 1px solid black;
+	margin-top:20px;
+	height:200px;
+	margin-left:50%;
+	padding:20px;
+}
+
+.report
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	width:50%;
+	float:left;
+	padding:20px;
+}
+
+.echo
+{
+	text-align:center;
+	height:50px;	
+}
+
+.report_cloture
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:50%;
+	padding:20px;
+}
+
+
+.detail_report
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	padding:20px;
+}
+.detail_western
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	width:30%;
+	float:left;
+	padding:20px;
+
+}
+
+.detail_ria
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:5%;
+	width:30%;
+	float:left;
+	padding:20px;
+
+}
+
+.detail_moneygram
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:70%;
+	padding:20px;
+
+}
+
+.global_report
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	padding:20px;
+	width:70%;
+	float:left;
+	height:150px;
+
+}
+
+.total_env_ret
+{	
+	border: 1px solid black;
+	margin-top:20px;
+	height:150px;
+	margin-left:70%;
+	padding:20px;
+
+}
